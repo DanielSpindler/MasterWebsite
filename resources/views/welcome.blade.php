@@ -70,7 +70,7 @@
                 <div class="w-1/3 bg-[#141414] border border-[#212121] rounded h-auto">
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Fertige Vorlagen</h5>
-                        <div class="">
+                        <div>
                             <p class="mb-6 opacity-75">Knappes Budget? Keine Zeit? Oder einfach Lust, die eigene
                                 Webseite selbst zu
                                 machen?</p>
@@ -130,7 +130,7 @@
                 <div class="w-1/2 bg-[#141414] border border-[#212121] rounded h-auto">
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-5 mt-5">HTML & CSS</h5>
-                        <div class="">
+                        <div>
                             <p class="mb-5 opacity-75">HTML & CSS schreibe ich am liebsten von Hand. Na ja, schon mit
                                 dem Computer
                                 aber ich tippe alles selbst.</p>
@@ -201,7 +201,7 @@
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Online Marketing</h5>
 
-                        <div class="">
+                        <div>
                             <p class=" inline opacity-75">Du willst alles über deine Besucher wissen? Dann bist Du bei
                                 mir </p>
                             <p class="inline-block mb-6">FALSCH.
@@ -216,7 +216,7 @@
                 <div class="w-1/3 bg-[#141414] border border-[#212121] rounded">
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Browsersupport</h5>
-                        <div class="">
+                        <div>
                             <p class="mb-6 opacity-75">Wer den Browser nicht updatet, bleibt auf der Strecke.</p>
                             <p class="inline opacity-75">Zum Thema Browsersupport gibt’s für mich nur eine Richtung
                                 – </p>
