@@ -6,7 +6,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <title>Website Clone</title>
 </head>
-<body style="background-color: #0a0a0a" class="font-poppins">
+<body class="font-poppins bg-[#0a0a0a]">
 <div class="text-white mt-6 mx-2 ml-6 mr-6 ">
     <header>
         <div class="flex">
@@ -21,36 +21,48 @@
                     <a href="#" class="block my-2 mr-4 ml-3 text-white text-white rounded" aria-current="page">Blog</a>
                 </li>
                 <li>
-                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="block my-2 ml-3 text-white text-white rounded" aria-current="page">Kontakt</a>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                       class="block my-2 ml-3 text-white text-white rounded" aria-current="page">Kontakt</a>
                 </li>
             </ul>
         </div>
     </header>
     <div class="mt-8">
-        <h1 class="font-medium leading-tight text-3xl font-normal mt-0 mb-12">Handgefertigte Webseiten</h1>
-        <h3 class="font-medium leading-tight text-2xl mb-2">als fertige Vorlage oder individuell an Deine Bedürfnisse
-            angepasst.</h3>
-        <div class="mb-6">
-            <h5 class="mt-8 font-medium leading-tight text-lg mb-2">Egal wofür Du Dich entscheidest,
-                <p>das gibt’s keinesfalls:</p></h5>
-            <ul class="list-disc ml-4 opacity-75">
-                <li>
-                    <p>lange Ladezeiten</p>
-                </li>
-                <li>
-                    <p>aufgeblasenen Code</p>
-                </li>
-            </ul>
-        </div>
-        <div class="mb-20">
-            <h5 class=" font-medium leading-tight text-lg mb-2">
-                Stattdessen gibts:
-            </h5>
-            <ul class="list-disc ml-4 opacity-75">
-                <li>Jemanden, <s>der Dich</s> den du verstehst</li>
-                <li><s>Pixelgenaue</s> Optimale Designumsetzung</li>
-                <li>eine <s>saftige</s> angemessene Rechnung</li>
-            </ul>
+        <h1 class="font-medium leading-tight text-3xl font-normal mt-0">Handgefertigte Webseiten</h1>
+        <div class="flex flex-row">
+            <div class="flex-1">
+                <div>
+                    <h3 class="font-medium leading-tight text-2xl mb-2 mt-12">als fertige Vorlage oder individuell an
+                        Deine
+                        Bedürfnisse
+                        angepasst.</h3>
+                    <div class="mb-6">
+                        <h5 class="mt-8 font-medium leading-tight text-lg mb-2">Egal wofür Du Dich entscheidest,
+                            <p>das gibt’s keinesfalls:</p></h5>
+                        <ul class="list-disc ml-4 opacity-75">
+                            <li>
+                                <p>lange Ladezeiten</p>
+                            </li>
+                            <li>
+                                <p>aufgeblasenen Code</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mb-20">
+                        <h5 class=" font-medium leading-tight text-lg mb-2">
+                            Stattdessen gibts:
+                        </h5>
+                        <ul class="list-disc ml-4 opacity-75">
+                            <li>Jemanden, <s>der Dich</s> den du verstehst</li>
+                            <li><s>Pixelgenaue</s> Optimale Designumsetzung</li>
+                            <li>eine <s>saftige</s> angemessene Rechnung</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="flex-1" style="background-image: url('public/grass.jpg')">
+                <img width="800" height="1200" src="grass.jpg">
+            </div>
         </div>
         <div class="mb-20">
             <h3 class="opacity-75 font-medium leading-tight font-normal text-xl mb-4 pt-2">ANGEBOT</h3>
