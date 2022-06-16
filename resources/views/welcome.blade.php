@@ -21,13 +21,13 @@
                     <a href="#" class="block my-2 mr-4 ml-3 text-white text-white rounded" aria-current="page">Blog</a>
                 </li>
                 <li>
-                    <a href="#" class="block my-2 ml-3 text-white text-white rounded" aria-current="page">Kontakt</a>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="block my-2 ml-3 text-white text-white rounded" aria-current="page">Kontakt</a>
                 </li>
             </ul>
         </div>
     </header>
     <div class="mt-8">
-        <h1 class="font-medium leading-tight text-3xl font-light mt-0 mb-12">Handgefertigte Webseiten</h1>
+        <h1 class="font-medium leading-tight text-3xl font-normal mt-0 mb-12">Handgefertigte Webseiten</h1>
         <h3 class="font-medium leading-tight text-2xl mb-2">als fertige Vorlage oder individuell an Deine Bedürfnisse
             angepasst.</h3>
         <div class="mb-6">
@@ -117,9 +117,9 @@
             <div class="flex flex-row">
                 <div class="w-1/2 bg-[#141414] border border-[#212121] rounded h-auto">
                     <div class="ml-5">
-                        <h5 class="font-medium leading-tight text-lg mb-6 mt-5">HTML & CSS</h5>
+                        <h5 class="font-medium leading-tight text-lg mb-5 mt-5">HTML & CSS</h5>
                         <div class="">
-                            <p class="mb-6 opacity-75">HTML & CSS schreibe ich am liebsten von Hand. Na ja, schon mit
+                            <p class="mb-5 opacity-75">HTML & CSS schreibe ich am liebsten von Hand. Na ja, schon mit
                                 dem Computer
                                 aber ich tippe alles selbst.</p>
 
@@ -128,37 +128,42 @@
                             <a href="#" class="text-white underline">Tailwind</a>
                             <p class="inline opacity-75">oder</p> <a href="#"
                                                                      class="text-white underline">Foundation </a>
-                            <p class="inline-block opacity-75 mb-6"> kommen bei mir nicht zum
+                            <p class="inline-block opacity-75 mb-5"> kommen bei mir nicht zum
                                 Einsatz.</p>
                             <p class="inline opacity-75">Stattdessen kommen Custom Properties (CSS
                                 Variablen), Flexbox, CSS Grid, und
                                 CSS Animationen sowie </p><a href="#" class="text-white underline">BEM</a>
                             <p class="inline opacity-75"> und </p><a href="#" class="text-white underline">ITCSS</a>
-                            <p class="inline-block opacity-75 mb-6">voll zur Geltung.</p>
+                            <p class="inline-block opacity-75 mb-5">voll zur Geltung.</p>
                             <p class="opacity-75 inline-block">Wenn Du Dich fragst, welche Compiler und Build Tools ich
                                 verwende
                                 lautet die
                                 Antwort: </p>
-                            <p class="inline-block mb-6">KEINE.</p>
+                            <p class="inline-block mb-5">KEINE.</p>
                         </div>
-                        <p class="opacity-100">Vanilla CSS rulez Baby!</p>
+                        <p>Vanilla CSS rulez Baby!</p>
                     </div>
                 </div>
                 <div class="w-1/2 bg-[#141414] border border-[#212121] rounded mx-8">
                     <div class="ml-5">
-                        <h5 class="font-medium leading-tight text-lg mb-6 mt-5">WordPress</h5>
-                        <div class="opacity-75">
-                            <p class="mb-6">Als Content Management System kommt WordPress zum Einsatz. Aber auch hier
+                        <h5 class="font-medium leading-tight text-lg mb-5 mt-5">WordPress</h5>
+                        <div class="mb-5">
+                            <p class="mb-5 opacity-75">Als Content Management System kommt WordPress zum Einsatz. Aber
+                                auch hier
                                 wird fast alles von Hand geschrieben.</p>
-                            <p class="mb-6 inline-block">Pagebuilder kommen für mich nicht in Frage. Stattdessen style
+                            <p class="mb-5 inline opacity-75">Pagebuilder kommen für mich nicht in Frage. Stattdessen
+                                style
                                 und erweitere
-                                ich den WordPress eigenen <a href="#" class="text-white underline">Gutenberg Editor</a>.
-                            </p>
-                            <p class="mb-6">Dadurch bleibt das Design modular und (bis zu einem bestimmten Grad)
+                                ich den WordPress eigenen </p><a href="#"
+                                                                 class="text-white underline inline-block mb-5">Gutenberg
+                                Editor</a>.
+                            <p class="mb-5 opacity-75">Dadurch bleibt das Design modular und (bis zu einem bestimmten
+                                Grad)
                                 individualisierbar. Wir wollen das Design ja nicht zerstören.</p>
-                            <p class="mb-6 inline-block">Warum ich keine Pagebuilder wie <a href="#"
-                                                                                            class="text-white underline">Elementor</a>
-                                oder das <a href="#" class="text-white underline">Divi</a> Theme verwende? Weil
+                            <p class="opacity-75 inline">Warum ich keine Pagebuilder wie </p><a href="#"
+                                                                                                class="text-white underline inline">Elementor</a>
+                            <p class="opacity-75 inline">oder das</p> <a href="#" class="text-white underline inline">Divi</a>
+                            <p class="opacity-75 mb-6 inline">Theme verwende? Weil
                                 sie WordPress Funktionalität überschreiben.</p>
                         </div>
                         <p class="mb-6">DON’T FIGHT THE SYSTEM!</p>
