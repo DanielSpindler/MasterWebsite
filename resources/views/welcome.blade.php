@@ -231,8 +231,8 @@
         <div class="w-full mb-5">
             <h3 class="opacity-75 font-medium leading-tight text-xl mb-4 pt-2">Kontakt</h3>
             <div class=" bg-[#141414] border border-[#212121] rounded w-full p-4">
-                <p class="underline">mail@email.com</p>
-                <p class="underline">+49 172 431 555 52</p>
+                <p class="underline">bewerbung@daniel-spindler.de</p>
+                <p class="underline">+49 172 431 55 08</p>
             </div>
         </div>
     </div>
