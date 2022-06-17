@@ -47,7 +47,7 @@
                         angepasst.</h3>
                     <div class="mb-6">
                         <h5 class="mt-8 font-medium leading-tight text-lg mb-2">Egal wofür Du Dich entscheidest,
-                            <p>das gibt’s keinesfalls:</p></h5>
+                            <p>das gibt's keinesfalls:</p></h5>
                         <ul class="list-disc ml-4 opacity-75">
                             <li>
                                 <p>lange Ladezeiten</p>
@@ -69,8 +69,8 @@
                     </div>
                 </div>
             </div>
-            <div class="flex-1" style="background-image: url('public/grass.jpg')">
-                <img width="800" height="1200" src="grass.jpg">
+            <div class="flex-1">
+                <img  src="bild.jpg" class="grayscale object-cover">
             </div>
         </div>
         <div class="mb-20">
@@ -187,7 +187,7 @@
                             <p class="opacity-75 mb-6 inline">Theme verwende? Weil
                                 sie WordPress Funktionalität überschreiben.</p>
                         </div>
-                        <p class="mb-6">DON’T FIGHT THE SYSTEM!</p>
+                        <p class="mb-6">DON'T FIGHT THE SYSTEM!</p>
                     </div>
                 </div>
             </div>
@@ -227,7 +227,7 @@
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Browsersupport</h5>
                         <div>
                             <p class="mb-6 opacity-75">Wer den Browser nicht updatet, bleibt auf der Strecke.</p>
-                            <p class="inline opacity-75">Zum Thema Browsersupport gibt’s für mich nur eine Richtung
+                            <p class="inline opacity-75">Zum Thema Browsersupport gibt's für mich nur eine Richtung
                                 – </p>
                             <p class="inline-block mb-6">VORWÄRTS.</p>
                             <p class="mb-6 opacity-75">Es führt kein Weg daran vorbei?
@@ -240,7 +240,7 @@
         <div class="w-full mb-5">
             <h3 class="opacity-75 font-medium leading-tight text-xl mb-4 pt-2">Kontakt</h3>
             <div class=" bg-[#141414] border border-[#212121] rounded w-full p-4">
-                <p class="underline">bewerbung@daniel-spindler.de</p>
+                <a href="mailto:bewerbung@daniel-spindler.de" class="underline">bewerbung@daniel-spindler.de</a>
                 <p class="underline">+49 172 431 55 08</p>
             </div>
         </div>
@@ -250,8 +250,8 @@
     <div class="flex">
         <p class="flex-1"> ©2022 - Troll GmbH</p>
         <div class="inline space-x-1 mr-1">
-            <p class="inline flex-2">Datenschutzerklärung</p>
-            <p class=" inline flex-2">Impressum</p>
+            <a  href="{{route('dataSecurity')}}"  class="inline flex-2">Datenschutzerklärung</a>
+            <a  href="{{route('impressum')}}" class=" inline flex-2">Impressum</a>
         </div>
     </div>
 </footer>

@@ -14,5 +14,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('home');
+})->name('home');
+
+Route::get('/datenschutzerklarung', function () {
+    return view('datenschutzerklarung');
+})->name('dataSecurity');
+
+Route::get('/impressum', function () {
+    return view('impressum');
+})->name('impressum');
