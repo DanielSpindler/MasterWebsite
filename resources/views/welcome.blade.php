@@ -5,20 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <title>Website Clone</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B421JFG106"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-B421JFG106');
+    </script>
 </head>
-<body class="font-poppins bg-[#0a0a0a]">
+<body class="bg-[#0a0a0a] opacity-[.97]" style="font-family: Futura">
 <div class="text-white mt-6 mx-2 ml-6 mr-6 ">
     <header>
         <div class="flex">
             <div class="flex border border-t-3 p-3 px-2">
                 logo
             </div>
-            <ul class="flex flex-row w-full justify-end">
+            <ul class="flex flex-row w-full justify-end font-normal mt-1 opacity-[.95]">
                 <li>
-                    <a href="#" class="block my-2 mr-4 text-white text-white rounded" aria-current="page">Themes</a>
+                    <a href="#" class="block my-2 mr-3 text-white text-white rounded" aria-current="page">Themes</a>
                 </li>
                 <li>
-                    <a href="#" class="block my-2 mr-4 ml-3 text-white text-white rounded" aria-current="page">Blog</a>
+                    <a href="#" class="block my-2 mr-3 ml-3 text-white text-white rounded" aria-current="page">Blog</a>
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
@@ -28,7 +37,7 @@
         </div>
     </header>
     <div class="mt-8">
-        <h1 class="font-medium leading-tight text-3xl font-normal mt-0">Handgefertigte Webseiten</h1>
+        <h1 class="font-medium leading-tight text-3xl font-light mt-0">Handgefertigte Webseiten</h1>
         <div class="flex flex-row">
             <div class="flex-1">
                 <div>

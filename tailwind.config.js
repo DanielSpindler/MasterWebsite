@@ -13,7 +13,6 @@ module.exports = {
         extend: {
             fontFamily: {
                 'poppins': ['Poppins', 'sans-serif'],
-                'hind': ['Hind', 'sans-serif'],
             },
             backgroundImage: {
                 'anyBG': "url('/Microsoft.png')",
