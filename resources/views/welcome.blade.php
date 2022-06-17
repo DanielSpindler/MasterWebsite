@@ -22,12 +22,12 @@
             <div class="flex border border-t-3 p-3 px-2">
                 logo
             </div>
-            <ul class="flex flex-row w-full justify-end font-normal mt-1 opacity-[.95]">
+            <ul class="flex flex-row w-full justify-end font-normal mt-2 opacity-[.95]">
                 <li>
-                    <a href="#" class="block my-2 mr-3 text-white text-white rounded" aria-current="page">Themes</a>
+                    <a href="#" class="block my-2 mr-4 text-white text-white rounded" aria-current="page">Themes</a>
                 </li>
                 <li>
-                    <a href="#" class="block my-2 mr-3 ml-3 text-white text-white rounded" aria-current="page">Blog</a>
+                    <a href="#" class="block my-2 mr-4 ml-3 text-white text-white rounded" aria-current="page">Blog</a>
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
