@@ -81,8 +81,8 @@
                     </div>
                 </div>
             </div>
-            <div class="flex-1 -mb-12 mt-4">
-                <img src="bild.jpg" class="flex object-cover mix-blend-multiply mx-auto rounded-full md:h-96 md:w-96 ">
+            <div class="flex-1 -mb-12 mt-2">
+                <img src="bild.jpg" class="flex object-cover mix-blend-multiply fixed mx-auto ml-24 rounded-full md:h-96 md:w-96 ">
             </div>
         </div>
         <div class="mb-10">
@@ -110,7 +110,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="w-1/2 bg-black">
+                <div class="w-1/2 bg-black opacity-75">
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Kurse</h5>
                         <div class="opacity-75">
