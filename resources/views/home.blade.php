@@ -43,7 +43,8 @@
     <div class="mt-8">
         <div class="flex flex-row  mb-10">
             <div class="flex-auto -mr-32 -ml-24">
-                <h1 class=" font-medium leading-tight text-3xl text-center font-light mt-0">Handgefertigte Webseiten</h1>
+                <h1 class=" font-medium leading-tight text-3xl text-center font-light mt-0">Handgefertigte
+                    Webseiten</h1>
                 <div>
                     <h3 class="font-medium leading-tight text-center text-2xl mb-2 mt-14">
                         Individuell an
@@ -94,7 +95,8 @@
                             <p class="mb-8"> Ich kann dir bei der Umsetzung von Anfang bis Ende zur Seite stehen – oder
                                 mittendrin rein
                                 hechten.</p>
-                            <p class="mb-6"> Bei mir gibt es Minimal designs aus fertigen Vorlagen, sowie Arbeit nach deinen Design. </p>
+                            <p class="mb-6"> Bei mir gibt es Minimal designs aus fertigen Vorlagen, sowie Arbeit nach
+                                deinen Design. </p>
 
                         </div>
                         <div class="w-full flex mb-6">
@@ -114,7 +116,8 @@
                             <p class="mb-8">Wenn Du es aber dennoch lernen willst, helfe ich beim Einstieg in die
                                 fabelhafte Welt des Webdesigns.</p>
 
-                            <p class="mb-6">Ich biete Basic einstiegskurse an die direkt ein Projekt nacht absprache enthalten</p>
+                            <p class="mb-6">Ich biete Basic einstiegskurse an die direkt ein Projekt nacht absprache
+                                enthalten</p>
                         </div>
                         <div class="w-full flex mb-6">
                             <a href="#"
@@ -130,9 +133,11 @@
             <div class="flex flex-row">
                 <div class="w-1/2 bg-[#141414] bg-gradient-to-r from-black via-gray-900 to-gray-700">
                     <div class="ml-5">
-                        <h5 class="font-medium leading-tight text-lg mb-5 mt-5">PHP(bevorzugt im Laravel-Framework) und Design</h5>
+                        <h5 class="font-medium leading-tight text-lg mb-5 mt-5">PHP(bevorzugt im Laravel-Framework) und
+                            Design</h5>
                         <div class="mb-8">
-                            <p class="mb-5 opacity-75">HTML & CSS schreibe ich am liebsten von Hand(für die Basics wird natürlich Tailwind zum Zeitsparen verwendet).
+                            <p class="mb-5 opacity-75">HTML & CSS schreibe ich am liebsten von Hand(für die Basics wird
+                                natürlich Tailwind zum Zeitsparen verwendet).
                                 Na ja, schon mit dem Computer aber ich tippe alles selbst.</p>
 
                             <p class=" inline opacity-75">Frameworks wie </p> <a href="#"
@@ -165,7 +170,8 @@
             <div class="flex flex-row">
                 <div class="w-1/3 bg-[#141414]">
                     <div class="ml-5">
-                        <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Da ich mich dauerhaft weiterbilden möchte..</h5>
+                        <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Da ich mich dauerhaft weiterbilden
+                            möchte..</h5>
                         <div class="opacity-75">
                             <p class="mb-6">bin ich für fast alles zu haben.</p>
                             <p class="mb-6">Das lässt sich jedoch alles nach einer Anfrage klären.</p>
