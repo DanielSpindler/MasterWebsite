@@ -19,23 +19,27 @@
         gtag('config', 'G-B421JFG106');
     </script>
 </head>
-<body class="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700 opacity-[.97]" style="font-family: Futura">
-<div class="text-white mt-6  ">
-    <header>
-        <div class="flex">
-            <div class="flex border border-t-3 p-3 px-2 ml-6">
-                logo
-            </div>
-            <ul class="flex flex-row w-full justify-end font-normal mt-2 opacity-[.95] mr-6">
+<body class="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700 opacity-[.97] w-screen h-screen"
+      style="font-family: Futura">
+<div class="text-white inline-block ">
+    <header class="flex inline-block">
+        <div class="relative flex flex-auto">
+            <ul class="flex flex-row mx-auto p-2 font-normal opacity-[.20] bg-white rounded-b fixed">
                 <li>
-                    <a href="#" class="block my-2 mr-4 text-white text-white rounded" aria-current="page">Themes</a>
+                    <div class="text-black">
+                        logo
+                    </div>
                 </li>
                 <li>
-                    <a href="#" class="block my-2 mr-4 ml-3 text-white text-white rounded" aria-current="page">Blog</a>
+                    <a href="#" class="rounded mx-8 text-black" aria-current="page">Themes</a>
+                </li>
+                <li>
+                    <a href="#" class="rounded mx-8 text-black"
+                       aria-current="page">Blog</a>
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-                       class="block my-2 ml-3 text-white text-white rounded" aria-current="page">Kontakt</a>
+                       class="rounded ml-8 text-black" aria-current="page">Kontakt</a>
                 </li>
             </ul>
         </div>
@@ -77,7 +81,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flex-1 -mt-6 ">
+            <div class="flex-1 -mb-12 mt-4">
                 <img src="bild.jpg" class="flex object-cover mix-blend-multiply mx-auto rounded-full md:h-96 md:w-96 ">
             </div>
         </div>
