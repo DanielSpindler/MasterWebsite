@@ -9,20 +9,24 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-B421JFG106"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'G-B421JFG106');
     </script>
 </head>
-<body class="bg-[#0a0a0a] opacity-[.97]" style="font-family: Futura">
-<div class="text-white mt-6 mx-2 ml-6 mr-6 ">
+<body class="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700 opacity-[.97]" style="font-family: Futura">
+<div class="text-white mt-6  ">
     <header>
         <div class="flex">
-            <div class="flex border border-t-3 p-3 px-2">
+            <div class="flex border border-t-3 p-3 px-2 ml-6">
                 logo
             </div>
-            <ul class="flex flex-row w-full justify-end font-normal mt-2 opacity-[.95]">
+            <ul class="flex flex-row w-full justify-end font-normal mt-2 opacity-[.95] mr-6">
                 <li>
                     <a href="#" class="block my-2 mr-4 text-white text-white rounded" aria-current="page">Themes</a>
                 </li>
@@ -37,176 +41,138 @@
         </div>
     </header>
     <div class="mt-8">
-        <h1 class="font-medium leading-tight text-3xl font-light mt-0">Handgefertigte Webseiten</h1>
-        <div class="flex flex-row">
-            <div class="flex-1">
+        <div class="flex flex-row  mb-10">
+            <div class="flex-auto -mr-32 -ml-24">
+                <h1 class=" font-medium leading-tight text-3xl text-center font-light mt-0">Handgefertigte Webseiten</h1>
                 <div>
-                    <h3 class="font-medium leading-tight text-2xl mb-2 mt-12">als fertige Vorlage oder individuell an
+                    <h3 class="font-medium leading-tight text-center text-2xl mb-2 mt-14">
+                        Individuell an
                         Deine
                         Bedürfnisse
                         angepasst.</h3>
-                    <div class="mb-6">
-                        <h5 class="mt-8 font-medium leading-tight text-lg mb-2">Egal wofür Du Dich entscheidest,
-                            <p>das gibt's keinesfalls:</p></h5>
-                        <ul class="list-disc ml-4 opacity-75">
-                            <li>
-                                <p>lange Ladezeiten</p>
-                            </li>
-                            <li>
-                                <p>aufgeblasenen Code</p>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="mb-20">
-                        <h5 class=" font-medium leading-tight text-lg mb-2">
-                            Stattdessen gibts:
-                        </h5>
-                        <ul class="list-disc ml-4 opacity-75">
-                            <li>Jemanden, <s>der Dich</s> den du verstehst</li>
-                            <li><s>Pixelgenaue</s> Optimale Designumsetzung</li>
-                            <li>eine <s>saftige</s> angemessene Rechnung</li>
-                        </ul>
+                    <div class="flex justify-around ml-16 mt-12">
+                        <div>
+                            <h5 class="mt-8 font-medium leading-tight text-lg mb-2">Egal wofür Du Dich entscheidest,
+                                <p>das gibt's keinesfalls:</p></h5>
+                            <ul class="list-disc ml-4 opacity-75">
+                                <li>
+                                    <p>lange Ladezeiten</p>
+                                </li>
+                                <li>
+                                    <p>aufgeblasenen Code</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h5 class="mt-8 font-medium leading-tight text-lg mb-2">
+                                Stattdessen gibts:
+                            </h5>
+                            <ul class="list-disc ml-4 opacity-75">
+                                <li>Jemanden, <s>der Dich</s> den du verstehst</li>
+                                <li><s>Pixelgenaue</s> Optimale Designumsetzung</li>
+                                <li>eine <s>saftige</s> angemessene Rechnung</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="flex-1">
-                <img  src="bild.jpg" class="grayscale object-cover">
+            <div class="flex-1 -mt-6 ">
+                <img src="bild.jpg" class="flex object-cover mix-blend-multiply mx-auto rounded-full md:h-96 md:w-96 ">
             </div>
         </div>
-        <div class="mb-20">
-            <h3 class="opacity-75 font-medium leading-tight font-normal text-xl mb-4 pt-2">ANGEBOT</h3>
+        <div class="mb-10">
+            <h3 class="opacity-75 font-medium leading-tight font-normal text-xl text-center mb-8 pt-2">ANGEBOT</h3>
             <div class="flex flex-row">
-                <div class="w-1/3 bg-[#141414] border border-[#212121] rounded h-auto">
-                    <div class="ml-5">
-                        <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Fertige Vorlagen</h5>
-                        <div>
-                            <p class="mb-6 opacity-75">Knappes Budget? Keine Zeit? Oder einfach Lust, die eigene
-                                Webseite selbst zu
-                                machen?</p>
-                            <div class="mb-8 ">
-                                <p class="opacity-75 inline"> Dann schnapp Dir eines meiner fertigen WordPress Themes
-                                    auf
-                                </p><a href="#" class="text-white underline">what-the-phuc.com</a>
-                            </div>
-                        </div>
-                        <div class="w-full flex mb-6">
-                            <a href="#"
-                               class="border border-2 border-[#141414] transition ease-in-out delay-75 duration-300 hover:bg-[#0a0a0a] hover:border-2 hover:border-white py-2 px-3 w-fit flex bg-[#1f518e] font-bold text-sm text-center">
-                                WHAT THE PHUC</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="w-1/3 bg-[#141414] border border-[#212121] rounded mx-8">
+                <div class="w-1/2 bg-gray-900">
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Maßgeschneiderte Webseite</h5>
 
                         <div class="opacity-75">
-                            <p class="mb-6"> du willst eine passgenaue, an Deine Bedürfnisse zugeschnittene,
+                            <p class="mb-6"> du willst eine passgenaue, an Deine Bedürfnisse zugeschnittene
                                 Webseite?</p>
+
                             <p class="mb-8"> Ich kann dir bei der Umsetzung von Anfang bis Ende zur Seite stehen – oder
                                 mittendrin rein
                                 hechten.</p>
+                            <p class="mb-6"> Bei mir gibt es Minimal designs aus fertigen Vorlagen, sowie Arbeit nach deinen Design. </p>
+
                         </div>
                         <div class="w-full flex mb-6">
                             <a href="#"
-                               class="border border-2 border-[#141414] transition ease-in-out delay-75 duration-300 py-2 px-3 w-fit flex bg-[#7c0202] font-bold text-sm text-center hover:bg-[#0a0a0a] hover:border-2 hover:border-white">
+                               class=" roundedborder border-2 border-[#141414] transition ease-in-out delay-75 duration-300 py-2 px-3 w-fit flex bg-[#7c0202] font-bold text-sm text-center hover:bg-[#0a0a0a] hover:border-2 hover:border-white">
                                 HILF MIR</a>
                         </div>
                     </div>
                 </div>
-                <div class="w-1/3 bg-[#141414] border border-[#212121] rounded">
+                <div class="w-1/2 bg-black">
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Kurse</h5>
                         <div class="opacity-75">
-                            <p class="mb-6">Man muss heutzutage nicht programmieren können, um tolle Webseiten zu
+                            <p class="mb-6">Man muss heutzutage nicht programmieren können, um einfache Webseiten zu
                                 erstellen.</p>
 
                             <p class="mb-8">Wenn Du es aber dennoch lernen willst, helfe ich beim Einstieg in die
                                 fabelhafte Welt des Webdesigns.</p>
+
+                            <p class="mb-6">Ich biete Basic einstiegskurse an die direkt ein Projekt nacht absprache enthalten</p>
                         </div>
                         <div class="w-full flex mb-6">
                             <a href="#"
-                               class="border border-2 border-[#141414] transition ease-in-out delay-75 duration-300 py-2 px-3 w-fit flex bg-[#058935] font-bold text-sm text-center hover:bg-[#0a0a0a] hover:border-2 hover:border-white">
+                               class=" rounded border border-2 border-[#141414] transition ease-in-out delay-75 duration-300 py-2 px-3 w-fit flex bg-[#058935] font-bold text-sm text-center hover:bg-[#0a0a0a] hover:border-2 hover:border-white">
                                 ZUM KANINCHENBAU</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="mb-20">
-            <h3 class="opacity-75 font-medium leading-tight text-xl mb-4 pt-2">WAS ICH MACHE</h3>
+        <div class="mb-5">
+            <h3 class="opacity-75 font-medium leading-tight text-xl mb-8 pt-2 text-center">WAS ICH MACHE</h3>
             <div class="flex flex-row">
-                <div class="w-1/2 bg-[#141414] border border-[#212121] rounded h-auto">
+                <div class="w-1/2 bg-[#141414] bg-gradient-to-r from-black via-gray-900 to-gray-700">
                     <div class="ml-5">
-                        <h5 class="font-medium leading-tight text-lg mb-5 mt-5">HTML & CSS</h5>
-                        <div>
-                            <p class="mb-5 opacity-75">HTML & CSS schreibe ich am liebsten von Hand. Na ja, schon mit
-                                dem Computer
-                                aber ich tippe alles selbst.</p>
+                        <h5 class="font-medium leading-tight text-lg mb-5 mt-5">PHP(bevorzugt im Laravel-Framework) und Design</h5>
+                        <div class="mb-8">
+                            <p class="mb-5 opacity-75">HTML & CSS schreibe ich am liebsten von Hand(für die Basics wird natürlich Tailwind zum Zeitsparen verwendet).
+                                Na ja, schon mit dem Computer aber ich tippe alles selbst.</p>
 
                             <p class=" inline opacity-75">Frameworks wie </p> <a href="#"
-                                                                                 class="text-white underline">Bootstrap</a>,
-                            <a href="#" class="text-white underline">Tailwind</a>
+                                                                                 class="text-white underline">Tailwind</a>,
+                            <a href="#" class="text-white underline">Laravel</a>
                             <p class="inline opacity-75">oder</p> <a href="#"
-                                                                     class="text-white underline">Foundation </a>
-                            <p class="inline-block opacity-75 mb-5"> kommen bei mir nicht zum
+                                                                     class="text-white underline">React </a>
+                            <p class="inline-block opacity-75 mb-5"> kommen bei mir zum
                                 Einsatz.</p>
-                            <p class="inline opacity-75">Stattdessen kommen Custom Properties (CSS
+                            <p class="inline-block opacity-75">Auch möglich sind: Custom Properties (CSS
                                 Variablen), Flexbox, CSS Grid, und
-                                CSS Animationen sowie </p><a href="#" class="text-white underline">BEM</a>
-                            <p class="inline opacity-75"> und </p><a href="#" class="text-white underline">ITCSS</a>
-                            <p class="inline-block opacity-75 mb-5">voll zur Geltung.</p>
-                            <p class="opacity-75 inline-block">Wenn Du Dich fragst, welche Compiler und Build Tools ich
-                                verwende
-                                lautet die
-                                Antwort: </p>
-                            <p class="inline-block mb-5">KEINE.</p>
+                                CSS Animationen. </p>
                         </div>
-                        <p>Vanilla CSS rulez Baby!</p>
+                        <p>Frameworks sind die Zukunft!</p>
                     </div>
                 </div>
-                <div class="w-1/2 bg-[#141414] border border-[#212121] rounded mx-8">
+                <div class="w-1/2 bg-[#141414] bg-gradient-to-r from-gray-700 via-gray-800 to-black">
                     <div class="ml-5">
-                        <h5 class="font-medium leading-tight text-lg mb-5 mt-5">WordPress</h5>
+                        <h5 class="font-medium leading-tight text-lg mb-5 mt-5">CMS?</h5>
                         <div class="mb-5">
-                            <p class="mb-5 opacity-75">Als Content Management System kommt WordPress zum Einsatz. Aber
-                                auch hier
-                                wird fast alles von Hand geschrieben.</p>
-                            <p class="mb-5 inline opacity-75">Pagebuilder kommen für mich nicht in Frage. Stattdessen
-                                style
-                                und erweitere
-                                ich den WordPress eigenen </p><a href="#"
-                                                                 class="text-white underline inline-block mb-5">Gutenberg
-                                Editor</a>.
-                            <p class="mb-5 opacity-75">Dadurch bleibt das Design modular und (bis zu einem bestimmten
-                                Grad)
-                                individualisierbar. Wir wollen das Design ja nicht zerstören.</p>
-                            <p class="opacity-75 inline">Warum ich keine Pagebuilder wie </p><a href="#"
-                                                                                                class="text-white underline inline">Elementor</a>
-                            <p class="opacity-75 inline">oder das</p> <a href="#" class="text-white underline inline">Divi</a>
-                            <p class="opacity-75 mb-6 inline">Theme verwende? Weil
-                                sie WordPress Funktionalität überschreiben.</p>
+
                         </div>
                         <p class="mb-6">DON'T FIGHT THE SYSTEM!</p>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="mb-20">
-            <h3 class="opacity-75 font-medium leading-tight text-xl mb-8 pt-2">WAS ICH NICHT MACHE</h3>
+        <div class="mb-0">
+            <h3 class="opacity-75 font-medium leading-tight text-xl text-center mb-8 pt-2">WAS ICH NICHT MACHE</h3>
             <div class="flex flex-row">
-                <div class="w-1/3 bg-[#141414] border border-[#212121] rounded h-auto">
+                <div class="w-1/3 bg-[#141414]">
                     <div class="ml-5">
-                        <h5 class="font-medium leading-tight text-lg mb-6 mt-5">JavaScript</h5>
+                        <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Da ich mich dauerhaft weiterbilden möchte..</h5>
                         <div class="opacity-75">
-                            <p class="mb-6">Mit JavaScript kann man tolle Sachen machen.</p>
-                            <p class="mb-6">Und ich bin mir sicher, dass sehr viele andere sehr viel mehr Spaß damit
-                                haben als ich.</p>
-                            <p class="mb-6">Ich kann Dir gern ihre Kontaktdaten geben.</p>
+                            <p class="mb-6">bin ich für fast alles zu haben.</p>
+                            <p class="mb-6">Das lässt sich jedoch alles nach einer Anfrage klären.</p>
                         </div>
                     </div>
                 </div>
-                <div class="w-1/3 bg-[#141414] border border-[#212121] rounded mx-8">
+                <div class="w-1/3 bg-[#141414]">
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Online Marketing</h5>
 
@@ -222,7 +188,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="w-1/3 bg-[#141414] border border-[#212121] rounded">
+                <div class="w-1/3 bg-[#141414]">
                     <div class="ml-5">
                         <h5 class="font-medium leading-tight text-lg mb-6 mt-5">Browsersupport</h5>
                         <div>
@@ -237,22 +203,15 @@
                 </div>
             </div>
         </div>
-        <div class="w-full mb-5">
-            <h3 class="opacity-75 font-medium leading-tight text-xl mb-4 pt-2">Kontakt</h3>
-            <div class=" bg-[#141414] border border-[#212121] rounded w-full p-4">
-                <a href="mailto:bewerbung@daniel-spindler.de" class="underline">bewerbung@daniel-spindler.de</a>
-                <p class="underline">+49 172 431 55 08</p>
-            </div>
-        </div>
     </div>
 </div>
 <footer class="bg-white rounded-b p-4 text-xs">
-    <div class="flex">
-        <p class="flex-1"> ©2022 - Troll GmbH</p>
-        <div class="inline space-x-1 mr-1">
-            <a  href="{{route('dataSecurity')}}"  class="inline flex-2">Datenschutzerklärung</a>
-            <a  href="{{route('impressum')}}" class=" inline flex-2">Impressum</a>
-        </div>
+    <div class="flex text-center">
+        <p class="flex-auto"> ©2022 - .x. GmbH</p>
+        <a href="mailto:bewerbung@daniel-spindler.de" class="flex-auto underline">bewerbung@daniel-spindler.de</a>
+        <p class="underline flex-auto">+49 172 431 55 08</p>
+        <a href="{{route('dataSecurity')}}" class="inline flex-auto">Datenschutzerklärung</a>
+        <a href="{{route('impressum')}}" class=" inline flex-auto">Impressum</a>
     </div>
 </footer>
 </body>
